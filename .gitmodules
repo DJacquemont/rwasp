@@ -1,0 +1,6 @@
+[submodule "msp"]
+	path = msp
+	url = https://github.com/christianrauch/msp
+[submodule "multiwii_ros2"]
+	path = multiwii_ros2
+	url = git@github.com:christianrauch/multiwii_ros2.git
